@@ -1,4 +1,4 @@
-# freeCodeCamp Machine Learning with Python
+# freeCodeCamp Scientific Computing with Python
 These are the five projects for the Scientific Computing with Python curriculum on freeCodeCamp.
 <br>
 ## Project List
@@ -12,4 +12,4 @@ These are the five projects for the Scientific Computing with Python curriculum 
 The cirruculum demonstrates my familiarity with the Python language and my competence in solving fundamental mathematics problems using Python. 
 
 ## Certification
-[![certificate](certificate.png)](https://www.freecodecamp.org/certification/william1357chen/data-analysis-with-python-v7)
+[![certificate](certificate.png)](https://www.freecodecamp.org/certification/william1357chen/scientific-computing-with-python-v7)
